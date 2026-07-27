@@ -1,0 +1,24 @@
+site_name: AP Computer Science 2026-27
+site_url: https://dkessner.github.io/APCS_2026-27
+
+theme:
+  name: material
+  palette: 
+    primary: deep orange
+  logo: images/phyllotaxis_orange.png
+
+extra_css:
+  - style.css
+
+nav:
+  - Home: index.md
+  - class/schedule.md
+  - Class:
+    - class/intro.md
+    - class/syllabus.md
+    - class/course_expectations.md
+    - class/study_advice.md
+    - class/resources.md
+    - summer/summer_assignment.md
+  - about.md
+
