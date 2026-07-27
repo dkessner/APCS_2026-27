@@ -1,0 +1,22 @@
+
+
+.md-main canvas {
+    margin: 20px;
+}
+
+
+#home_page {
+    display: flex;    
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#home_page p, 
+#welcome-to-ap-computer-science  /*hack*/
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+
