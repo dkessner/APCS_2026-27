@@ -20,5 +20,10 @@ nav:
     - class/study_advice.md
     - class/resources.md
     - summer/summer_assignment.md
+  - Setup:
+    - setup/installation_mac.md
+    - setup/github.md
+    - setup/command_line.md
+    - setup/customization_mac.md
   - about.md
 
