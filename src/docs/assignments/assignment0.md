@@ -19,10 +19,6 @@ the same in reverse.
 [Exercises](https://dkessner.github.io/csbook/java/exercises-numeric-conversion.html#exercises-numeric-conversion)
 for more practice.
 
-__Bonus__ Convert 0x29A to decimal.  Remind me to tell you a story about
-this.
-
-
 ## Set up your GitHub repository for your classwork
 
 [Follow these instructions](../../setup/github) carefully to create a repository, add me as

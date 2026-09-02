@@ -25,5 +25,7 @@ nav:
     - setup/github.md
     - setup/command_line.md
     - setup/customization_mac.md
+  - Assignments:
+    - assignments/assignment0.md
   - about.md
 
