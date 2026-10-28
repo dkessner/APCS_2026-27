@@ -14,13 +14,13 @@
 |6   |Sep 28|2|Unit 4 (Loops / Algorithms)|
 |7   |Oct 6 |2|catch up|
 |8   |Oct 12|2|Unit 5 (Classes & Objects)|
-|9   |Oct 19|2|Unit 6 (Processing libraries); Project planning|
+|9   |Oct 19|2|catch up|
 |10  |Oct 26|2|catch up|
-|11  |Nov 2 |3|Unit 7 (Arrays); Project work|
-|12  |Nov 9 |2|Unit 8 (ArrayList); Project work|
-|13  |Nov 16|2|catch up, Project work|
+|11  |Nov 2 |3|Unit 7 (Arrays)|
+|12  |Nov 9 |2|Unit 8 (ArrayList)|
+|13  |Nov 16|2|Unit 9 (Array Algorithms)|
 |--  |Nov 23|-|_Thanksgiving Break_|
-|14  |Nov 30|2|Unit 9 (Array Algorithms); Project work|
+|14  |Nov 30|2|Unit 6 (Processing libraries); Project planning|
 |15  |Dec 7 |2|Project work|
 |16  |Dec 14|1|Project work|
 
